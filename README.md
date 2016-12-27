@@ -1,12 +1,12 @@
 # webpack-demo
 
-To build:
+build project:
  $ npm run build
 
 
-To run:
+Run project:
 $ npm run dev
 
 
-access site @:
+Access site @:
 http://localhost:8000/
