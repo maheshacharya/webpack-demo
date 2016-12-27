@@ -1,0 +1,10 @@
+body {
+    background-color: greenyellow;
+}
+
+:local(.box) {
+    background-color: white;
+    padding: 1em;
+    border: 6px solid  yellowgreen;
+    box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
